@@ -1,2 +1,13 @@
 # FortRobotics-2019-off-season
-This is where we will have all versions of our autonomous and driver code for our FRC robot named cucumber is saved! (Cucumber is probably not the actual name I just wanted to see if anyone would read the description)
+This progect contains the autonomous and driver control code for our team's FRC Robot.
+
+To set it up:
+1. Create a Git Hub account
+2. Enter git clone https://github.com/JensenCoonradt/FortRobotics-2019-off-season.git
+
+To use it:
+Whenever you want to add somthing to the program create a new branch and code your changes
+If it works update the master copy after asking the lead programmer(s) for permision to overide it
+
+If you need any help:
+Ask Jensie!
